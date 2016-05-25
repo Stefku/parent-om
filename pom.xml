@@ -12,19 +12,6 @@
 	<url>https://github.com/Stefku/parent-pom</url>
 	<inceptionYear>2016</inceptionYear>
 
-	<!--TODO settings xml as in http://central.sonatype.org/pages/apache-maven.html-->
-	<!--
-	<settings>
-		<servers>
-			<server>
-				<id>ossrh</id>
-				<username>your-jira-id</username>
-				<password>your-jira-pwd</password>
-			</server>
-		</servers>
-	</settings>
-	-->
-
 	<profiles>
 		<profile>
 			<id>release</id>
